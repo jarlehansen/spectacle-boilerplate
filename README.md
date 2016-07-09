@@ -11,7 +11,9 @@ __Changes__
 
 ## Installation
 Clone the repository  
-`git clone https://github.com/jarlehansen/spectacle-boilerplate.git _project-name_`
+```
+git clone https://github.com/jarlehansen/spectacle-boilerplate.git _project-name_
+```
 
 Run the `setup.sh` script. It will use the name of the project to update package.json and readme.
 It will also remove the `.git` folder and finally delete the setup-script.
