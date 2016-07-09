@@ -29,14 +29,12 @@ import Interactive from '../assets/interactive';
 import 'normalize.css';
 import 'spectacle/lib/themes/default/index.css';
 
-/* eslint-disable */
 const images = {
   city: require('../assets/city.jpg'),
   kat: require('../assets/kat.png'),
   logo: require('../assets/formidable-logo.svg'),
   markdown: require('../assets/markdown.png')
 };
-/* eslint-enable */
 
 preloader(images);
 
