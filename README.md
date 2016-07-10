@@ -1,6 +1,7 @@
 # Spectacle Boilerplate
 
-Forked from this [repo](https://github.com/FormidableLabs/spectacle-boilerplate)  
+* Forked from this [repo](https://github.com/FormidableLabs/spectacle-boilerplate)  
+* [Spectacle documentation](https://github.com/FormidableLabs/spectacle)
 
 ---
 
